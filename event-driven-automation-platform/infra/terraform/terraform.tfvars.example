@@ -1,0 +1,4 @@
+location            = "westeurope"
+resource_group_name = "rg-event-driven-automation-platform-dev"
+environment         = "dev"
+project_name        = "event-driven-automation-platform"
